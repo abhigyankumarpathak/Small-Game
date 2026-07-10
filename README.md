@@ -3,6 +3,17 @@
 A tiny terminal battle game, built to teach **modules, functions, and importing
 your own files** in Python.
 
+## Run it instantly (no install)
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/abhigyankumarpathak/Small-Game)
+
+Click the badge above (you'll need a free GitHub account). Wait ~30 seconds for
+the browser terminal to open, then run:
+
+```bash
+python3 main.py
+```
+
 ## How to play
 
 Open a terminal, go into this folder, and run:
