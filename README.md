@@ -7,9 +7,13 @@ your own files** in Python.
 
 [![Run on Replit](https://replit.com/badge/github/abhigyankumarpathak/Small-Game)](https://replit.com/github/abhigyankumarpathak/Small-Game)
 
-Click the badge above. Replit opens the project in your browser and imports the
-code — then just press the big green **Run** button and play in the console.
-(No install; a free Replit account is all you need.)
+Click the badge above to open the project on Replit (a free account is all you
+need). This is a terminal game, so:
+
+1. **Open the Replit project.**
+2. **Open the terminal** — click the **Shell** tab (ignore the "Preview" pane;
+   this game isn't a web app, so the preview stays blank).
+3. **Type** `python3 main.py` and press Enter to play.
 
 ## Run locally (no account needed)
 
