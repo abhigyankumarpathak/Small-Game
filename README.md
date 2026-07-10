@@ -5,14 +5,11 @@ your own files** in Python.
 
 ## Run it instantly (no install)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/abhigyankumarpathak/Small-Game)
+[![Run on Replit](https://replit.com/badge/github/abhigyankumarpathak/Small-Game)](https://replit.com/github/abhigyankumarpathak/Small-Game)
 
-Click the badge above (you'll need a free GitHub account). Wait ~30 seconds for
-the browser terminal to open, then run:
-
-```bash
-python3 main.py
-```
+Click the badge above. Replit opens the project in your browser and imports the
+code — then just press the big green **Run** button and play in the console.
+(No install; a free Replit account is all you need.)
 
 ## How to play
 
