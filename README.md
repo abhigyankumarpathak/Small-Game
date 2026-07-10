@@ -38,7 +38,7 @@ Beat all four monsters to clear the dungeon.
 
 ### The three heroes
 
-| Hero   | Type   | Style                              Signature move            |
+| Hero   | Type   | Style                              | Signature moves          |
 |--------|--------|-----------------------------------|--------------------------|
 | Knight | steel  | Tanky, guards and heals           | Holy Strike, Second Wind |
 | Mage   | arcane | Glass cannon, hits elements       | Fireball, Arcane Blast   |
