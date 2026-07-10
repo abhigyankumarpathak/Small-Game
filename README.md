@@ -11,6 +11,19 @@ Click the badge above. Replit opens the project in your browser and imports the
 code — then just press the big green **Run** button and play in the console.
 (No install; a free Replit account is all you need.)
 
+## Run locally (no account needed)
+
+Have Python installed? Skip the sign-ups entirely. Grab the code and run it:
+
+```bash
+git clone https://github.com/abhigyankumarpathak/Small-Game.git
+cd Small-Game
+python3 main.py
+```
+
+No `git`? On the GitHub page click **`< > Code` → Download ZIP**, unzip it, then
+`cd` into the folder and run `python3 main.py`.
+
 ## How to play
 
 Open a terminal, go into this folder, and run:
